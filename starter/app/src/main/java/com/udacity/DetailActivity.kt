@@ -30,8 +30,8 @@ class DetailActivity : AppCompatActivity() {
         val filename: String? = intent.getStringExtra(FILE_NAME)
         val status: String? = intent.getStringExtra(STATUS)
 
-        filename_text.setText(filename)
-        status_text.setText(status)
+        filename_text.text = filename
+        status_text.text = status
 
         setSupportActionBar(toolbar)
     }
