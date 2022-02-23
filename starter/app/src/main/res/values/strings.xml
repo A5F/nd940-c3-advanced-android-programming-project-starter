@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ND940C3-Project</string>
     <string name="app_description">Download files from Internet</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Impostazioni</string>
 
 
     <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
@@ -11,4 +11,32 @@
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+
+
+    <string name="descr_download">Seleziona il link da scaricare</string>
+
+    <string name="glide_link">https://github.com/bumptech/glide/archive/master.zip</string>
+    <string name="glide_link_label">Libreria Glide</string>
+
+    <string name="C3_project_link">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter/archive/master.zip</string>
+    <string name="C3_project_link_label">Udacity progetto C3</string>
+
+    <string name="retrofit_link">https://github.com/square/retrofit/archive/master.zip</string>
+    <string name="retrofit_link_label">Libreria Retrofit</string>
+
+
+    <string name="background_for_banner">background for banner</string>
+    <string name="the_download_image">The download image</string>
+
+    <string name="download_text">Scarica</string>
+    <string name="loading_text">Scaricando ...</string>
+
+    <string name="download_repository_channel_id">default_channel</string>
+    <string name="download_notification_channel_description">Download completo</string>
+    <string name="download_notification_channel_name" translatable="true">Downloader</string>
+
+    <string name="action_button_text">Vai al dettaglio</string>
+    <string name="navigate_back">Indietro</string>
+    <string name="file_name_caption">File:</string>
+    <string name="status_caption">Stato:</string>
 </resources>
